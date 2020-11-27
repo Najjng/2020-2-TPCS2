@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nakyeongkim/CLionProjects/2020-2_TPCS2/homework02/main.cpp
+iostream
+-
+string
+-
+polynomial.h
+/Users/nakyeongkim/CLionProjects/2020-2_TPCS2/homework02/polynomial.h
+
+/Users/nakyeongkim/CLionProjects/2020-2_TPCS2/homework02/polynomial.h
+iostream
+-
+vector
+-
+

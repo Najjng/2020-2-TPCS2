@@ -1,0 +1,6 @@
+/Users/nakyeongkim/CLionProjects/2020-2_TPCS2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nakyeongkim/CLionProjects/2020-2_TPCS2/cmake-build-debug/CMakeFiles/homework03.dir
+/Users/nakyeongkim/CLionProjects/2020-2_TPCS2/cmake-build-debug/CMakeFiles/homework01.dir
+/Users/nakyeongkim/CLionProjects/2020-2_TPCS2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nakyeongkim/CLionProjects/2020-2_TPCS2/cmake-build-debug/CMakeFiles/homework02.dir
+/Users/nakyeongkim/CLionProjects/2020-2_TPCS2/cmake-build-debug/CMakeFiles/2020_2_TPCS2.dir

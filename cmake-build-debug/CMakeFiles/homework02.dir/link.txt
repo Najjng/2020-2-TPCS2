@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/homework02.dir/homework02/main.cpp.o CMakeFiles/homework02.dir/homework02/polynomial.cpp.o  -o homework02 
