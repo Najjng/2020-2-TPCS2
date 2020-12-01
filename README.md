@@ -10,13 +10,16 @@
 - Review the QT Creator before making grid
 
 2020.11.29
-- Make Grid
-- Make Card viewed as Card 
-- Add clicking key
-- Try to get used to QT as possible and practice
+- Make Grid (Done)
+- Make Card viewed as Card (Done)
+- Add clicking key (Error)
+- Try to get used to QT as possible and practice (Done)
+
+2020.12.01
+- Edit Card visualization codes
 
 Lists to Do(not done, not allocated yet)
-- Set incoding so that I can put chinese word as input
+- Set encoding so that I can put chinese word as input
 - Test with real chinese word if the features are well put into the card
 - Link the grid card and c++ card code
 - Write testing function (word test)
