@@ -10,18 +10,18 @@ Things are done for the final project as following order.
 
 - Make Grid (Done)
 - Make Card viewed as Card (Done)
-- Add clicking key (Error)
+- Add clicking key (Error) (Fixed)
 - Try to get used to QT as possible and practice (Done)
 
 
-- Edit Card visualization codes
+- Edit Card visualization codes (Error) (Fixed)
 
-- Set encoding so that I can put chinese word as input
-- Test with real chinese word if the features are well put into the card
-- Link the grid card and c++ card code
+- Set encoding so that I can put chinese word as input (Done)
+- Test with real chinese word if the features are well put into the card (Done)
+- Link the grid card and c++ card code (Done)
 
-- Write testing function (word test)
-- QT test screen
+- Write testing function (word test) (Done)
+- QT test screen (Done)
 
 Things to do next if I continue working on it
 - QT test filter('what will you test?': level, tone, etc)
